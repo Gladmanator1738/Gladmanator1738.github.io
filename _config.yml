@@ -1,9 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+General_assets: Images
+post_assets: Images
 # Name of your site (displayed in the header)
-name: Your Name
+name: Gladmanator1738
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
